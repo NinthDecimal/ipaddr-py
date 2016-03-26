@@ -22,7 +22,7 @@ and networks.
 
 """
 
-__version__ = 'trunk'
+__version__ = '0.1'
 
 import struct
 
